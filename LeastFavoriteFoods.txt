@@ -1,5 +1,0 @@
-LeastFavoriteFoods
-eggplant
-zucchini
-onions
-tomato
