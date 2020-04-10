@@ -5,3 +5,4 @@ eating
 fishing
 Sleeping
 reading
+yawn
