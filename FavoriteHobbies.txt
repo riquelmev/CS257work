@@ -4,5 +4,5 @@ motorcycling
 eating
 fishing
 Sleeping
+doing nothing
 reading
-yawn
